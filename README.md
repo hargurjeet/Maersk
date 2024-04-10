@@ -8,7 +8,7 @@ This repository contains the code for the home assignment provided by Maersk. Th
    - Conducted comprehensive EDA activities on the vessel data provided as part of the assignment.
    - Derived important insights and conclusions from the EDA process.
 
-2. **Machine Learning Modeling for Vessel Delay Forecasting:**
+2. **Machine Learning Modeling for Vessel Unloading Delay Forecasting:**
    - Developed a notebook dedicated to machine learning modeling.
    - Forecasted vessel delay, which represents the time a ship waits in the vicinity of the port for its cargo to get unloaded.
 
